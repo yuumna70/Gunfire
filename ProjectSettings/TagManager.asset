@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Audio
+  - HomeDoor
+  - door1
+  - door1-1
+  - door1-2
+  - door1-3
+  - door1-4
+  - door1-5
+  - sell
+  - door2
+  - door2-1
+  - door2-2
+  - door2-3
+  - door2-4
+  - door2-5
+  - door3
+  - door3-1
+  - door3-2
+  - door3-3
+  - door3-4
+  - door3-5
+  - door3-6
+  - door3-7
+  - gun
+  - enemy
+  - bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
